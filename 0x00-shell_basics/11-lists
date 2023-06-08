@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l /0-current_working_directory /0x00-shell_basics /root
+ls -l /0-current_working_directory /0x00-shell_basics /boot
